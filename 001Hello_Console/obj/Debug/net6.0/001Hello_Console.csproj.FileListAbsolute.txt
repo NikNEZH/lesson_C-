@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\bin\Debug\net6.0\001Hello_Console.exe
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\bin\Debug\net6.0\001Hello_Console.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\bin\Debug\net6.0\001Hello_Console.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\bin\Debug\net6.0\001Hello_Console.dll
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\bin\Debug\net6.0\001Hello_Console.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.dll
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\refint\001Hello_Console.dll
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\001Hello_Console.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\Lesson_C#\001Hello_Console\obj\Debug\net6.0\ref\001Hello_Console.dll
